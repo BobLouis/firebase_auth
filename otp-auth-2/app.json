@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "otp-auth-4",
-    "slug": "otp-auth-4",
+    "name": "otp-auth-2",
+    "slug": "otp-auth-2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,12 +15,10 @@
       "supportsTablet": true
     },
     "android": {
-      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.louis_7th.otpauth4"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
