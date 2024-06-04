@@ -24,7 +24,7 @@ export default function Detail({ route, navigation }) {
   };
 
   return (
-    <View style={{ flex: 1, padding: 10, backgroundColor: "#BEBDB8" }}>
+    <View style={{ flex: 1, padding: 10, backgroundColor: "#FFF" }}>
       <Text
         style={{
           fontSize: 32,
